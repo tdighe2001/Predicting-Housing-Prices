@@ -1,1 +1,2 @@
+Built time series models to predict the median prices of homes in San Diego for the period 2022-2025. Performed statistical analyses to evaluate the accuracy of predictions using just historical data (SARIMA) and the addition of exogenous variables (SARIMAX): % change in sales of existing homes and median time on market of each home.
 The Repo includes the written report and presentastion for time series forecasting analysis done.
